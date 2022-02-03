@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Data Structure
-permalink: Java/DataStructure
+permalink: category/DataStructure
 ---
