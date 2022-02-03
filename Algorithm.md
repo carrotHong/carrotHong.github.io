@@ -2,7 +2,7 @@
 ---
 layout: category
 title: Algorithm
-permalink: category/Algorithm
+permalink: Java/Algorithm
 ---
 ```
 
