@@ -1,8 +1,5 @@
-```
 ---
 layout: category
-title: Algorithm
+title: Data Structure
 permalink: Java/Algorithm
 ---
-```
-
