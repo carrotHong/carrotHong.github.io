@@ -1,6 +1,6 @@
 ```
 ---
-layout: Java
+layout: category
 title: Algorithm
 permalink: Java/Algorithm
 ---
