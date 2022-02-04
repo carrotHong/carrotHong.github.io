@@ -445,6 +445,12 @@ footer .footer-custom-content {
   }
 }
 
+@media (max-width: 768px) {
+  .post-preview {
+    padding: 0.5rem 0;
+  }
+}
+
 @media (max-width: 1100px) {
   .post-preview {
     padding: 6.1875rem 0;
