@@ -464,9 +464,9 @@ footer .footer-custom-content {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 1.125rem;
+  font-size: 0.8rem;
   font-style: italic;
-  margin: 0 0rem 0.625rem;
+  margin: 0rem 0.2rem 0.625rem;
   font-family: 'Lora', 'Times New Roman', serif;
 }
 .post-heading .post-meta {
@@ -485,15 +485,14 @@ footer .footer-custom-content {
 .post-preview .post-title {
   margin-left: 12rem;
   font-size: 1.875rem;
-  margin-top: 0;
+  margin-top: 0; 
 }
 #작은제목위치조정
 .post-preview .post-subtitle {
   color: brown;
   margin-left: 12rem;
-  font-size: 1rem;
-  font-weight: 100;
-  margin-bottom: 0.625rem;
+  font-size: 0.2rem;
+  margin-bottom: 0.425rem;
 }
 
 
