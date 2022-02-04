@@ -15,15 +15,16 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Algorithm:
+    - Java: "Algorithm/Java"
+    - Python: "Algorithm/Python"
+    - Resources: "Algorithm/Resources"
   Java  : 
+    - Stream : "/Java/Stream"
     - Data Structure: "/Java/DataStructure"
-    - Algorithm: "/Java/Algorithm"
   Python  :
-    - Data Structure:
-    - Algorithm:
+    - Program: "/Python/Program"
+    - Data Structure: "/Python/DataStructure"
   Flutter :
 
 
