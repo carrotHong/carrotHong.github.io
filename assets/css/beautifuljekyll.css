@@ -481,7 +481,7 @@ footer .footer-custom-content {
 @media (max-width: 767px) {
   .post-heading .post-meta {
     display: block;
-    margin-bottom: 10rem;
+    margin-bottom: 5rem;
   }
 }
 .post-heading .post-meta .middot {
