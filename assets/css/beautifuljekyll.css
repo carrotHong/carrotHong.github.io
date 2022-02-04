@@ -433,7 +433,7 @@ footer .footer-custom-content {
 /* --- Post preview (feed) --- */
 
 .post-preview {
-  padding: 0rem 0rem;
+  padding: 2.5rem 1rem;
   border-bottom: 1px solid #eee;
   overflow: hidden;
 }
@@ -441,9 +441,12 @@ footer .footer-custom-content {
 
 
 #컴터일때게시글간격
+
+
 @media (min-width: 1100px) {
   .post-preview {
     padding: 3.1875rem 0;
+    
   }
 }
 
@@ -451,7 +454,9 @@ footer .footer-custom-content {
 @media (max-width: 1100px) {
   .post-preview {
     padding: 2rem 0;
+  
   }
+  
 }
 
 
