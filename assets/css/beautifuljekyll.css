@@ -487,24 +487,24 @@ footer .footer-custom-content {
   margin-left: 12rem;
   font-size: 1.875rem;
   margin-top: 0; 
+  margin-bottom: -3rem;
 }
 #작은제목위치조정
 .post-preview .post-subtitle {
   color: brown;
-  margin-left: 12rem;
   margin-bottom: 0.425rem;
-  margin-top: -1rem;
 }
 
 
 
 .post-preview .post-entry {
   width: 110%;
+  
 
 }
 .post-preview .post-image {
   float: left;
-  margin-right: 1.625rem;
+  margin-right: 1.225rem;
   height: 13rem;
   width: 13rem;
 }
