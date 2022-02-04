@@ -14,7 +14,7 @@ author: Jeon_Carrot
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Algorithm:
     - Java: "Algorithm/Java"
     - Python: "Algorithm/Python"
