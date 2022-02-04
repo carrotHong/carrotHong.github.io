@@ -36,7 +36,7 @@ layout: page
 
     <a href="{{ post.url | absolute_url }}">
       <h2 class="post-title">{{ post.title | strip_html }}</h2>
-
+      <hr size="120px" noshade="" width="30%" align="left">
       {% if post.subtitle %}
         <h3 class="post-subtitle">
         {{ post.subtitle | strip_html }}
@@ -86,6 +86,7 @@ layout: page
     {% endif %}
 
    </article>
+   <hr width="650px" size="20px" aligh="left">
   {% endfor %}
 </div>
 
