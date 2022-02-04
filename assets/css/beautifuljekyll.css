@@ -470,12 +470,12 @@ footer .footer-custom-content {
   font-family: 'Lora', 'Times New Roman', serif;
 }
 .post-heading .post-meta {
-  display: inline-block;
+  display: list-item;
 }
 @media (max-width: 767px) {
   .post-heading .post-meta {
     display: block;
-    margin-bottom: -0.5rem;
+    margin-bottom: 0rem;
   }
 }
 .post-heading .post-meta .middot {
@@ -499,6 +499,7 @@ footer .footer-custom-content {
 
 .post-preview .post-entry {
   width: 110%;
+  
   
 
 }
