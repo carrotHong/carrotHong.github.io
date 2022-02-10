@@ -2,13 +2,10 @@
 layout: default
 ---
 
-
-
 <ul class="posts-list">
   <article class="post-preview">
-  
   {% assign category = page.category | default: page.title %}
-  <h2>Posts in {{ category }} ({{ site.categories[category].size }})</h2>
+  <h2>Posts in {{ category }} ({{ site.categories[category].size }})</h2><br>
   <hr>
   {% for post in site.categories[category] %}
     <li>
