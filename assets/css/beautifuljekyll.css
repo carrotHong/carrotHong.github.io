@@ -515,7 +515,7 @@ footer .footer-custom-content {
 
 .post-preview .post-entry {
   width: 100%;
-  margin-bottom: -1.5rem;
+  margin-bottom: -1rem;
   
 
 }
@@ -624,13 +624,13 @@ footer .footer-custom-content {
 }
 
 .post-preview .blog-tags {
-  margin-top: 0.3125rem;
+  margin-top: 1.1125rem;
   margin-bottom: 0;
 }
 
 @media (min-width: 768px) {
   .post-preview .blog-tags {
-    margin-top: 0.625rem;
+    margin-top: 1.25rem;
   }
 }
 
