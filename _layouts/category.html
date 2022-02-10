@@ -5,19 +5,22 @@ layout: default
 
 
 <ul class="posts-list">
-  
+  <article class="post-preview">
   {% assign category = page.category | default: page.title %}
   <h2>Posts in {{ category }} ({{ site.categories[category].size }})</h2>
   <hr>
-  <p>{% for post in site.categories[category] %}</p>
+  </u>{% for post in site.categories[category] %}
     <li>
       <h3>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
+        <a href="{{ site.baseurl }}{{ post.url | absolute_url }}" aria-label="Thumbnail" >
+          <u>{{ post.title }}</u>
         </a>
         <small>{{ post.date | date_to_string }}</small>
+      
+          <h6 style = "color:	#5F9EA0">{{ post.subtitle | strip_html }}</h6>
+          <br>
       </h3>
     </li>
   {% endfor %}
-  
+</article>
 </ul>
