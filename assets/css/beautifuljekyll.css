@@ -453,12 +453,11 @@ footer .footer-custom-content {
 #모바일일때게시글간격 
 @media (max-width: 1100px) {
   .post-preview {
-    padding: 2rem 0;
+    padding: 3rem 0;
     
   }
   
 }
-
 
 
 
@@ -592,6 +591,7 @@ footer .footer-custom-content {
     font-size: 1rem;
   }
 }
+
 
 
 

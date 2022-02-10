@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Python_Program
+title: Python Program
 permalink: Python/Program
 ---
