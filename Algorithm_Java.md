@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Algorithm_Java
+title: Java Algorithm
 permalink: Algorithm/Java
 ---

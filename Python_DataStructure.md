@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Python_DataStructure
+title: Python DataStructure
 permalink: Python/DataStructure
 ---

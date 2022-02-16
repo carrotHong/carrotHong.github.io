@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Algorithm_Python
+title: Python Algorithm
 permalink: Algorithm/Python
 ---
